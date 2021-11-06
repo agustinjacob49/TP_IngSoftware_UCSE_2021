@@ -2,15 +2,16 @@
 Repositorio para la catedra Ing de software 2021 de UCSE
 
 En este repositorio se ubica el Sistema "Mi-Educación"
+El mismo esta pensado para poder administrar las pasantias y proyectos de investigacion de la universidad. 
 
 ## Equipo de desarrollo
 
-Joaquin Oldani
-Nicolas Pautasso
+* Joaquin Oldani
+* Nicolas Pautasso
 
 ## Equipo de Analistas
 
-Agustin Jacobsen
+* Agustin Jacobsen
 
 ## Tecnologias
 
